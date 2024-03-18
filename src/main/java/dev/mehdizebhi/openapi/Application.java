@@ -1,4 +1,4 @@
-package com.packt.modern.api.chapter03;
+package dev.mehdizebhi.openapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
