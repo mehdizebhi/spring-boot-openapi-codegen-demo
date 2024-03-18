@@ -77,3 +77,5 @@ You can change the generated code path in `config.json`.
 [OpenAPI Generator Spring Github](https://github.com/OpenAPITools/openapi-generator/blob/master/docs/generators/spring.md)
 
 [OpenAPI Generator Spring Docs](https://openapi-generator.tech/docs/generators/spring/)
+
+[Modern API Development with Spring and Spring Boot (2021)](https://github.com/PacktPublishing/Modern-API-Development-with-Spring-and-Spring-Boot)
